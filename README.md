@@ -8,5 +8,6 @@ Navigation bar
 
 sections
 
+I did this project to understand the correlation between HTML, CSS and Javascript
 
 Enjoy!
